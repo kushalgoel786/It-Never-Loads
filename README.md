@@ -1,4 +1,4 @@
-# Vanilla-CSS-Loader
-I made a simple circular loader using just HTML and CSS : )
+# It-Never-Loads
+I made a simple circular loader using just HTML and Vanilla CSS : )
 
-View it [live](https://kushalgoel786.github.io/Vanilla-CSS-Loader/) here.
+View it live [here](https://kushalgoel786.github.io/Vanilla-CSS-Loader/).
